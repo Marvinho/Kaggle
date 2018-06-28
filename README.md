@@ -9,9 +9,10 @@
   1503/4912
 
 
-###Titanic: Machine Learning from Disaster
+### Titanic: Machine Learning from Disaster
 
   Score(accuracy): 0.75598 
+  
   Top 53%
   
   5939/11257
