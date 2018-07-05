@@ -1,7 +1,7 @@
 # Kaggle
 
 ### Forest Cover Type
-
+  * Model: XGBoostClassifier
   * Score (accuracy): 0.76557
   * Public leaderboard rank (05.07.18): 21/62
 
